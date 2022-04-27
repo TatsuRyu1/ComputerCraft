@@ -1,0 +1,6 @@
+turtle.refuel()
+DistFB = 0
+DistRL = 0
+
+if turtle.forward() then
+ distFB += 1
